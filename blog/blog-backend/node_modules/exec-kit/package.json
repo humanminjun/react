@@ -1,0 +1,39 @@
+{
+  "name": "exec-kit",
+  "version": "0.1.0",
+  "description": "A child process toolbox.",
+  "main": "lib/exec.js",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "seventh": "^0.7.35"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tea-time -R dot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cronvel/exec-kit.git"
+  },
+  "keywords": [
+    "child",
+    "process"
+  ],
+  "author": "Cédric Ronvel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cronvel/exec-kit/issues"
+  },
+  "copyright": {
+    "title": "Exec Kit",
+    "years": [
+      2020
+    ],
+    "owner": "Cédric Ronvel"
+  }
+}
